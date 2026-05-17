@@ -46,7 +46,7 @@
 
 ## Результаты
 
-![Тепловая карта удержания](retention_heatmap.png)
+![Тепловая карта удержания](cohort_analysis/retention_heatmap.png)
 
 ### Основные выводы
 
